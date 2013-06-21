@@ -1,5 +1,5 @@
 cloaked-archer
 ==============
 
-Test project
+Experimental repository
 
